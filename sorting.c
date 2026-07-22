@@ -17,6 +17,7 @@ void bubbleSort(int arr[], int size) {
 }
 
 int main() {
+    printf("Sorting Example in C")
     int arr[] = {42, 15, 8, 99, 23, 2};
     int size = sizeof(arr) / sizeof(arr[0]);
 
